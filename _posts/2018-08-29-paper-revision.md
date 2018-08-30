@@ -20,20 +20,33 @@ Paper organization:
 Language:
 
 * "we can/could observe" -> "we observe"
-* Pay special attention to symbol consistency, and name differently (\gr and \lr) to reduce confusion
+* Pay special attention to symbolic consistency, and name differently (\gr and \lr) to reduce confusion
 
 Latex skills:
 
+* attach this line to each latex file (to collaborate with sublime text):
+
+  ```latex
+  !TEX root = main.tex
+  ```
+
 * Define phrases that appear in the math equation in the def.tex, and use \mathit or \mathrm to wrap it up.
+
 * Don't use \\begin{center}..\\end{center}, use \centering instead.
+
 * Use \\! to save space between math symbols
+
 * Use \url{} or \hyperref for the URL footnote, and move it after the period.
+
 * `` ` ```` ` ``something`` '' ``  instead of  `` " ``something`` " ``
-* Use \\\\[0.2cm] to provide vertical spaces between resizeboxes.
+
+* Use \\\\[0.2cm] to provide vertical spaces in addition to \vspace{0.2cm}
+
+* save $Y$ for matrices or nonterminals, use $\mathbf{y}$ (\vecy) to represent a sequence, and $y$ to denote tokens.
 
 Space saving skills:
 
-* Use \vspace{-0.1cm} to reduce the space between figure and its caption.
+* Use \vspace{-0.5cm} to reduce the space between figure and its caption.
 
 * Use "resp." instead of "respectively"
 
@@ -41,4 +54,4 @@ Space saving skills:
 
 * Figure 1 -> Fig. 1
 
-There're definitely a lot more writing skills missing. I'll try to update this list in the future.
+There're definitely a lot writing skills missing. I'll try to update this list in the future.
