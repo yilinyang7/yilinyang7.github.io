@@ -11,47 +11,53 @@ Paper writing is a crucial point for research, and I'm pretty bad at it. From my
 
 Paper organization:
 
-* Write a list of contributions as the last paragraph of introduction. This will catch readers attention, to what's most important in this paper. Also add "forward references" to specific sections.
-* Always write something in between \section and \subsection. It'll serve as an essential connection between the proceeding and following. And it'll largely help the logical flow.
+* Write a list of contributions as the last paragraph of introduction. This will catch readers attention, to what's important in this paper. Also add "forward references" to specific sections.
+
+* Always write something in between \section and \subsection. It'll serve as an essential logical connection between the proceeding and following. 
+
 * Try to discover the logical order between sections, and arrange it the way most naturally. The usual ordering of paper is: introduction -> preliminary -> existing problems -> methods -> experiments.
+
 * Don't write "related work" right after introduction. "Related work" isn't essential to the paper.
+
 * Merge similiar figures and tables for simplicity and saving spaces.
+
 
 Language:
 
-* "we can/could observe" -> "we observe"
-* Pay special attention to symbolic consistency, and name differently (\gr and \lr) to reduce confusion
+* Pay special attention to the symbolic consistency
+
+* For different terms, name them significantly different to reduce confusion
+
 
 Latex skills:
 
-* attach this line to each latex file (to collaborate with sublime text):
+* Attach this line to each latex file (to collaborate with modern latex editor):
 
-  ```latex
-  !TEX root = main.tex
-  ```
+```latex
+!TEX root = main.tex
+```
 
-* Define phrases that appear in the math equation in the def.tex, and use \mathit or \mathrm to wrap it up.
+* Define phrases that appear in the math equation as a command, and use \mathit or \mathrm to wrap it up (otherwise, it's ugly).
 
-* Don't use \\begin{center}..\\end{center}, use \centering instead.
+* Use \centering instead of "center" environment.
 
 * Use \\! to save space between math symbols
 
 * Use \url{} or \hyperref for the URL footnote, and move it after the period.
 
-* `` ` ```` ` ``something`` '' ``  instead of  `` " ``something`` " ``
-
 * Use \\\\[0.2cm] to provide vertical spaces in addition to \vspace{0.2cm}
 
-* save $Y$ for matrices or nonterminals, use $\mathbf{y}$ (\vecy) to represent a sequence, and $y$ to denote tokens.
+* Save capital letter ($Y$) for matrices or nonterminals, use bold one ($\mathbf{y}$) to represent a sequence, and lower-case one ($y$) to denote tokens.
+
 
 Space saving skills:
 
 * Use \vspace{-0.5cm} to reduce the space between figure and its caption.
 
-* Use "resp." instead of "respectively"
+* "respectively" -> "resp."
 
 * $a$=0 instead of $a=0$
 
-* Figure 1 -> Fig. 1
+* Figure 1 -> Fig. 1; Table 1 -> Tab. 1; Section 1 -> Sec. 1 etc..
 
-There're definitely a lot writing skills missing. I'll try to update this list in the future.
+There're definitely a lot missing. I'll try to update this list in the future.
