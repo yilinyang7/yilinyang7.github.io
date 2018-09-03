@@ -18,5 +18,5 @@ My thesis is on Neural Machine Translation. I also have a broad interest on Rein
 
 * Yilin Yang, Liang Huang, Mingbo Ma. [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582) In *Proceedings of EMNLP 2018*.
 
-* Renjie Zheng\*, Yilin Yang\*, Mingbo, Ma, Liang Huang. [OSU-BD WMT18 Multimodal Machine Translation System Report](http://yilinyang7.github.io/files/wmt18-multimodal.pdf). In *Proceedings of WMT 2018*.
+* Renjie Zheng\*, Yilin Yang\*, Mingbo, Ma, Liang Huang. [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592v1). In *Proceedings of WMT 2018*.
 
