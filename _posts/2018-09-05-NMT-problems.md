@@ -6,8 +6,6 @@ tags:
   - NMT
 ---
 
-## Well-Known Problems w/ Neural Machine Translation
-
 In addition to the *six challenges* listed in [1], here're the other well-known problems with Neural Machine Translation:
 
 ### Label Bias
