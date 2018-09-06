@@ -22,7 +22,7 @@ Exposure bias denotes the problem that during decoding time, the model could rea
 
 In the baseline of NMT systems [2,3], training loss is calculated by cross-entropy, while testing measurement are always non-differentiable metric (e.g. BLEU). Again, RL could solves this problem by calculating the loss directly from rewards (e.g. BLEU) it got from references. At the same time, an trial[6] to bring *brevity penalty* into log-likelihood is also intuitive for drawing connections between traditional model score with BLEU score.
 
-##### As a conclusion, RL method and other global training methods are the keys to solve above problems, and I think they are the future of NMT.
+**As a conclusion, RL method and other global training methods are the keys to solve above problems, and I think they are the future of NMT.**
 
 
 
