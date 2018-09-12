@@ -53,11 +53,9 @@ Latex skills:
 Space saving skills:
 
 * Use \vspace{-0.5cm} to reduce the space between figure and its caption.
-
 * "respectively" -> "resp."
-
 * $a$=0 instead of $a=0$
-
 * Figure 1 -> Fig. 1; Table 1 -> Tab. 1; Section 1 -> Sec. 1 etc..
+* Use \textstyle to shrink the math formulas (e.g. \frac and \sum)
 
 There're definitely a lot missing. I'll try to update this list in the future.
