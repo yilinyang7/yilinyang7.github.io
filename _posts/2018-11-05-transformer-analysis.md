@@ -1,7 +1,7 @@
 ---
 title: 'Granular Analysis of Transformer'
 date: 2018-11-05
-permalink: /posts/2018/
+permalink: /posts/2018/transformer-analysis
 tags:
   - NMT
 ---
