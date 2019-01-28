@@ -46,6 +46,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed                : false
+search                   : true
 
 # SEO Related
 google_site_verification : google9b43baf1eef1897f.html
