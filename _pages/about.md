@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Currently a Ph.D student in Computer Science, Oregon State University, supervised by [Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/). Previously got my B.S. from ECNU in 2017.
+Currently a Ph.D candidate in Computer Science, Oregon State University, Previously got my B.S. from ECNU in 2017.
 
 My thesis is on Neural Machine Translation. I also have a broad interest on Reinforcement Learning and Semantic Parsing.
 
