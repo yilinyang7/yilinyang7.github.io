@@ -1,5 +1,5 @@
 ---
-title: 'Well-Known Problems With Neural Machine Translation: Why RL Is The Future'
+title: 'Well-Known Problems With Neural Machine Translation'
 date: 2018-09-05
 permalink: /posts/2018/nmt-problems
 tags:
