@@ -10,10 +10,9 @@ redirect_from:
 
 
 
-Currently a Ph.D candidate in Computer Science, Oregon State University, previously got my B.S. from ECNU in 2017.
+Currently a Ph.D candidate on Computer Science, in Oregon State University, previously got my B.S. from ECNU (Shanghai) in 2017.
 
 My thesis is on Natural Language Processing and Neural Machine Translation.
-
 
 
 # Experiences
@@ -25,14 +24,14 @@ My thesis is on Natural Language Processing and Neural Machine Translation.
 # Publications
 
 * [On the Sub-Layer Functionalities of Transformer Decoder]()\
-Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu.\
+***Yilin Yang**, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu.*\
 Findings of the 2020 Conference on Empirical Methods in Natural Language Processing.
 
-* [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582)\
-Yilin Yang, Liang Huang, Mingbo Ma.\
-Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. [[poster]](https://yilinyang7.github.io/files/emnlp18-poster.pdf)
+* [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582) [[poster]](https://yilinyang7.github.io/files/emnlp18-poster.pdf)\
+***Yilin Yang**, Liang Huang, Mingbo Ma.*\
+Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 * [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592).\
-Renjie Zheng\*, Yilin Yang\*, Mingbo Ma, Liang Huang. (* indicates equal contribution)\
+*Renjie Zheng\*, ***Yilin Yang\***, Mingbo Ma, Liang Huang. (* indicates equal contribution)*\
 Proceedings of the Third Conference on Machine Translation 2018.
 
