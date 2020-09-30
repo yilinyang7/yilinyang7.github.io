@@ -32,6 +32,6 @@ Findings of the 2020 Conference on Empirical Methods in Natural Language Process
 Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
 
 * [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592).\
-*Renjie Zheng\*, ***Yilin Yang\***, Mingbo Ma, Liang Huang. (* indicates equal contribution)*\
+*Renjie Zheng\*, **Yilin Yang\***, Mingbo Ma, Liang Huang.* (*\** indicates equal contribution)\
 Proceedings of the Third Conference on Machine Translation 2018.
 
