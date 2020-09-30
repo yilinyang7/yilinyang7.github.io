@@ -12,13 +12,27 @@ redirect_from:
 
 Currently a Ph.D candidate in Computer Science, Oregon State University, previously got my B.S. from ECNU in 2017.
 
-My thesis is on Neural Machine Translation. I also have a broad interest on Reinforcement Learning and Semantic Parsing.
+My thesis is on Natural Language Processing and Neural Machine Translation.
+
+
+
+# Experiences
+* *Starting Dec 2020*: Research Intern at **Microsoft Research**, Machine Translation team
+* *Jun 2020 - Sep 2020*: Applied Scientist Intern at **Amazon Alexa**, Natural Language Understanding team
+* *Mar 2019 - Sep 2019*: Research Intern at **Tencent AI Lab**, Machine Translation team
+
 
 # Publications
 
-* Yilin Yang, Liang Huang, Mingbo Ma. [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582) In *Proceedings of EMNLP 2018*. [[poster]](https://yilinyang7.github.io/files/emnlp18-poster.pdf)
+* [On the Sub-Layer Functionalities of Transformer Decoder]()\
+Yilin Yang, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu.\
+Findings of the 2020 Conference on Empirical Methods in Natural Language Processing.
 
-* Renjie Zheng\*, Yilin Yang\*, Mingbo Ma, Liang Huang. [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592). In *Proceedings of WMT 2018*.
+* [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582)\
+Yilin Yang, Liang Huang, Mingbo Ma.\
+Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. [[poster]](https://yilinyang7.github.io/files/emnlp18-poster.pdf)
 
-  (* indicates equal contribution)
+* [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592).\
+Renjie Zheng\*, Yilin Yang\*, Mingbo Ma, Liang Huang. (* indicates equal contribution)\
+Proceedings of the Third Conference on Machine Translation 2018.
 
