@@ -23,7 +23,7 @@ My thesis is on Natural Language Processing and Neural Machine Translation.
 
 # Publications
 
-* [On the Sub-Layer Functionalities of Transformer Decoder]()\
+* [On the Sub-Layer Functionalities of Transformer Decoder](https://arxiv.org/abs/2010.02648)\
 ***Yilin Yang**, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu.*\
 Findings of the 2020 Conference on Empirical Methods in Natural Language Processing.
 
