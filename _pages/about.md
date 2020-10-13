@@ -16,7 +16,7 @@ My thesis is on Natural Language Processing and Neural Machine Translation.
 
 
 # Experiences
-* *Starting Dec 2020*: Research Intern at **Microsoft Research**, Machine Translation team
+<!-- * *Starting Dec 2020*: Research Intern at **Microsoft Research**, Machine Translation team -->
 * *Jun 2020 - Sep 2020*: Applied Scientist Intern at **Amazon Alexa**, Natural Language Understanding team
 * *Mar 2019 - Sep 2019*: Research Intern at **Tencent AI Lab**, Machine Translation team
 
