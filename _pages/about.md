@@ -23,7 +23,7 @@ My thesis is on Natural Language Processing and Neural Machine Translation.
 
 
 # Publications
-* [Improving Multilingual Translation by Representation and Gradient Regularization] \
+* [Improving Multilingual Translation by Representation and Gradient Regularization]() \
 ***Yilin Yang**, Akiko Eriguchi, Alexandre Muzio, Prasad Tadepalli, Stefan Lee and Hany Hassan.*\
 Proceedings of EMNLP 2021.
 
