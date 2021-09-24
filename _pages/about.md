@@ -24,19 +24,19 @@ My thesis is on Natural Language Processing and Neural Machine Translation.
 
 # Publications
 * [Improving Multilingual Translation by Representation and Gradient Regularization](https://arxiv.org/abs/2109.04778) \
-***Yilin Yang**, Akiko Eriguchi, Alexandre Muzio, Prasad Tadepalli, Stefan Lee, Hany Hassan.*\
-Proceedings of EMNLP 2021 (Oral).
+***Yilin Yang**, Akiko Eriguchi, Alexandre Muzio, Prasad Tadepalli, Stefan Lee, Hany Hassan*\
+Proceedings of EMNLP 2021 \textcolor{red}{Oral}
 
 * [On the Sub-Layer Functionalities of Transformer Decoder](https://arxiv.org/abs/2010.02648) [<span style="color:red">[Talk]</span>
 ](https://slideslive.com/38940141/on-the-sublayer-functionalities-of-transformer-decoder) \
-***Yilin Yang**, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu.*\
-Findings of EMNLP 2020.
+***Yilin Yang**, Longyue Wang, Shuming Shi, Prasad Tadepalli, Stefan Lee, Zhaopeng Tu*\
+Findings of EMNLP 2020
 
-* [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation.](https://arxiv.org/abs/1808.09582) [<span style="color:red">[Poster]</span>](https://yilinyang7.github.io/files/emnlp18-poster.pdf)\
-***Yilin Yang**, Liang Huang, Mingbo Ma.*\
-Proceedings of EMNLP 2018.
+* [Breaking the Beam Search Curse: A Study of (Re-)Scoring Methods and Stopping Criteria for Neural Machine Translation](https://arxiv.org/abs/1808.09582) [<span style="color:red">[Poster]</span>](https://yilinyang7.github.io/files/emnlp18-poster.pdf)\
+***Yilin Yang**, Liang Huang, Mingbo Ma*\
+Proceedings of EMNLP 2018
 
-* [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592).\
-*Renjie Zheng\*, **Yilin Yang\***, Mingbo Ma, Liang Huang.* (*\** indicates equal contribution)\
-Proceedings of WMT 2018.
+* [Ensemble Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine Translation System Report](https://arxiv.org/abs/1808.10592)\
+*Renjie Zheng\*, **Yilin Yang\***, Mingbo Ma, Liang Huang* (*\** indicates equal contribution)\
+Proceedings of WMT 2018
 
